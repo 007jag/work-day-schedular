@@ -14,3 +14,6 @@
 https://github.com/007jag/work-day-schedular
 # Web site link
 https://007jag.github.io/work-day-schedular/
+# screenshots 
+![page screenshot](images/Screenshot%20(15).png)
+![bottom page screenshot](images/Screenshot%20(16).png)
