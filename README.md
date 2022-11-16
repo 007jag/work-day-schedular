@@ -13,3 +13,4 @@
 # Repository link
 https://github.com/007jag/work-day-schedular
 # Web site link
+https://007jag.github.io/work-day-schedular/
